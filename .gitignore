@@ -1,0 +1,6 @@
+*.pyc
+*.log
+*.xml
+/.idea
+/log/
+flask-env/
